@@ -1,0 +1,47 @@
+[
+  {
+    "_id": "1",
+    "text": "Cats sleep 70% of their lives.",
+    "status": {
+      "verified": true,
+      "sentCount": 5
+    },
+    "createdAt": "2025-01-15T10:30:00Z"
+  },
+  {
+    "_id": "2",
+    "text": "A group of cats is called a clowder.",
+    "status": {
+      "verified": false,
+      "sentCount": 3
+    },
+    "createdAt": "2024-02-01T15:45:00Z"
+  },
+  {
+    "_id": "3",
+    "text": "Cats have five toes on their front paws, but only four on their back paws.",
+    "status": {
+      "verified": true,
+      "sentCount": 8
+    },
+    "createdAt": "2023-12-10T08:20:00Z"
+  },
+  {
+    "_id": "4",
+    "text": "The world's oldest cat lived to be 38 years old.",
+    "status": {
+      "verified": false,
+      "sentCount": 10
+    },
+    "createdAt": "2023-11-25T12:00:00Z"
+  },
+  {
+    "_id": "5",
+    "text": "Cats can make over 100 different sounds.",
+    "status": {
+      "verified": true,
+      "sentCount": 2
+    },
+    "createdAt": "2024-02-10T18:00:00Z"
+  }
+]
